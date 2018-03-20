@@ -18,6 +18,10 @@ Toston
 
 Toston generates a secret key with size variable (in bytes)
 
+The idea behind this module is that you can take advantage of 
+the `secrets` module to generate really secret and random keys to be 
+implemented in your web applications.
+
 
 * Free software: MIT license
 * Documentation: https://toston.readthedocs.io.
